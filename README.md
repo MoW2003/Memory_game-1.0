@@ -14,13 +14,4 @@ you'll be asked to open a second card then it will show if its matched or not.
 Keep on matching cards untill you win or run out of lives.
 
 After you've played a game you can check the leaderboard to see you're score.
-___________________________________________________________________________________
-
-Het opdracht is om een memorygame te ontwerpen geschreven in java(Docent Mr Frijde) 
-en data opslaat in mySQL(Docent Mr Ramcharan).
-
-Ons groep bestaat uit 4 leden waaronder 
-    Cheung S. SE/1121/062
-    Joghi V.  BI/1121/019
-    Bonoo K. BI/1121/004
-    Kaman k. BI/1121/020
+_______________________________________________________________________________
